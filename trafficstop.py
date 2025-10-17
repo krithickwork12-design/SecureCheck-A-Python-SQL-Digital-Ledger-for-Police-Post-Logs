@@ -871,6 +871,3 @@ headers = ["Violation", "Total Stops", "Total Arrests", "Arrest Rate (%)"]
 print("6.Top 5 Violations with Highest Arrest Rates:")
 print(tabulate(top_arrests_results, headers=headers, tablefmt="grid"))
 
-
-st.set_page_config(page_title="SecureCheck", layout="wide")
-st.sidebar.title("Secure")
