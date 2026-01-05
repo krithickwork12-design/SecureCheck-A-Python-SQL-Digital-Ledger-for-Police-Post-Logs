@@ -1,6 +1,6 @@
 #  SecureCheck – Traffic Stops Analytics System
 
-SecureCheck is a **Python–SQL based analytics project** designed to help police check posts **log, monitor, and analyze traffic stop data** efficiently. The system replaces manual logging with a **centralized database and interactive dashboard**, enabling faster decision-making and real-time insights fileciteturn0file0.
+SecureCheck is a **Python–SQL based analytics project** designed to help police check posts **log, monitor, and analyze traffic stop data** efficiently. The system replaces manual logging with a **centralized database and interactive dashboard**, enabling faster decision-making and real-time insights.
 
 ---
 
